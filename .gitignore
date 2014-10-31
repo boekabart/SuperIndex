@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/obj
+/_ReSharper.SuperIndex
+/SuperIndex.5.1.ReSharper.user
+/SuperIndex.6.1.ReSharper.user
+/SuperIndex.csproj.user
+/SuperIndex.sln.DotSettings.user
+/SuperIndex.suo
+/SuperIndex.v12.suo
